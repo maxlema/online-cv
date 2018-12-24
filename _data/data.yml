@@ -80,16 +80,15 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Data Science Specialization
+          - Software Construction Specialization
           
     - degree: Baccalauréat Scientifique option international polonais
       university: Lycée International des Pontonniers
       time: 2014 - 2018
       details: |
         Obtained with honors. Double diplom French - Polish.
-          - Bullet point
-          - Bullet point
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
