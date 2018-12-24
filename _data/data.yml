@@ -79,14 +79,9 @@ education:
       university: Ecole Polytechnique Fédérale de Lausanne - EPFL
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Obtained with a total grade of 4.8.
+          - Data Science Specialization
+          - Software Construction Specialization
           
     - degree: Baccalauréat Scientifique option international polonais
       university: Lycée International des Pontonniers
