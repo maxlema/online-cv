@@ -53,33 +53,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an EPFL Master student in Data Science. I love programming and data analysis. Currently looking for internship opportunities for semester project or master thesis.
 education:
     - degree: MSc in Data Science
       university: Ecole Polytechnique Fédérale de Lausanne - EPFL
       time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Currently passing it.
     - degree: BSc in Communication Systems
       university: Ecole Polytechnique Fédérale de Lausanne - EPFL
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Obtained with a global grade of 4.8.
           - Data Science Specialization
           - Software Construction Specialization
           
@@ -87,7 +72,7 @@ education:
       university: Lycée International des Pontonniers
       time: 2014 - 2018
       details: |
-        Obtained with honors. Double diplom French - Polish.
+        Obtained with honors - Mention Très Bien. Double diplom French - Polish.
         
 experiences:
     - role: Lead Developer
