@@ -72,7 +72,9 @@ education:
       university: Lycée International des Pontonniers
       time: 2014 - 2018
       details: |
-        Obtained with honors - Mention Très Bien. Double diplom French - Polish.
+        Obtained with honors. Specialization in Mathematics.
+          - Double International French - Polish Degree 
+          - Mention Très Bien
         
 experiences:
     - role: Android Developer
@@ -83,12 +85,12 @@ experiences:
           - 4 published applications
           - 15 000+ downloads in total
     - role: Promotion of Science
-      time: 2018
+      time: 2018 - Present
       company: Service de Promotion des Sciences de l’EPFL
       details: |
-        Working for the Science Promotion service of EPFL for multiple event.
-          - Supervisor of Cryptographic Workshops for high schools students in the Canton of Vaud
-          - Representative for the Machine Learning for the Visual Intelligence for Transportation Lab at Scientastic
+        Working for the Science Promotion service of EPFL for multiple events.
+          - Supervisor of Cryptographic Workshops for high schools students in the Canton of Vaud.
+          - Representative for the Machine Learning for the Visual Intelligence for Transportation Lab at the Scientastic Festival.
 projects:
     title: Projects
     intro: >
