@@ -94,29 +94,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are a few Projects I took part in the last few years :
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Bachelor Semester Project
+        link: 
+        tagline: "For the Multimedia Signal Processing Group (MMSPG), EPFL. Implementation of an Android application used as the proof of concept of a network based on picture-sharing, that allows users to share pictures while still ensuring their privacy."
 
-      - title: DevStudio
+      - title: LauzHack 2018
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Credit Suisse Challenge. Implementation of a Machine Learning model for credit card fraud detection."
 
 publications:
     title: Publications
