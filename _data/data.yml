@@ -96,13 +96,17 @@ projects:
     intro: >
       Here are a few Projects I took part in the last few years :
     assignments:
-      - title: Bachelor Semester Project
+      - title: Bachelor Semester Project - Multimedia Signal Processing Group (MMSPG), EPFL.
         link: 
-        tagline: "For the Multimedia Signal Processing Group (MMSPG), EPFL. Implementation of an Android application used as the proof of concept of a network based on picture-sharing, that allows users to share pictures while still ensuring their privacy."
+        tagline: "Implementation of an Android application used as the proof of concept of a network based on picture-sharing, that allows users to share pictures while still ensuring their privacy."
 
-      - title: LauzHack 2018
+      - title: LauzHack 2018 - Credit Suisse Challenge.
         link: "#"
-        tagline: "Credit Suisse Challenge. Implementation of a Machine Learning model for credit card fraud detection."
+        tagline: "Implementation of a Machine Learning model for credit card fraud detection."
+        
+      - title: Kaggle Competitions
+        link:
+        tagline: "I took part in mutliple Competitions."
 
 publications:
     title: Publications
